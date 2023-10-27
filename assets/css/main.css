@@ -1666,8 +1666,7 @@ input, select, textarea {
 			padding: 5px;
 		  }
 		  
-		  .row::after {
-			content: "";
-			clear: both;
-			display: table;
-		  }
+		  .imgContainer{
+			float:left;
+		}
+		
